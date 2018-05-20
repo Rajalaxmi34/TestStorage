@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="75209" started-at="2018-05-10T18:29:43Z" finished-at="2018-05-10T18:30:58Z">
+  <suite name="Default suite" duration-ms="106642" started-at="2018-05-20T03:45:34Z" finished-at="2018-05-20T03:47:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="75209" started-at="2018-05-10T18:29:43Z" finished-at="2018-05-10T18:30:58Z">
+    <test name="Default test" duration-ms="106642" started-at="2018-05-20T03:45:34Z" finished-at="2018-05-20T03:47:21Z">
       <class name="pkg1.TC01">
-        <test-method status="PASS" signature="LunchBrowser()[pri:0, instance:pkg1.TC01@818063]" name="LunchBrowser" is-config="true" duration-ms="57390" started-at="2018-05-10T23:59:43Z" finished-at="2018-05-11T00:00:41Z">
+        <test-method status="PASS" signature="LunchBrowser()[pri:0, instance:pkg1.TC01@818063]" name="LunchBrowser" is-config="true" duration-ms="58565" started-at="2018-05-20T09:15:34Z" finished-at="2018-05-20T09:16:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LunchBrowser -->
-        <test-method status="PASS" signature="Testcase()[pri:0, instance:pkg1.TC01@818063]" name="Testcase" duration-ms="15829" started-at="2018-05-11T00:00:41Z" finished-at="2018-05-11T00:00:56Z">
+        <test-method status="PASS" signature="Testcase()[pri:0, instance:pkg1.TC01@818063]" name="Testcase" duration-ms="45228" started-at="2018-05-20T09:16:33Z" finished-at="2018-05-20T09:17:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:pkg1.TC01@818063]" name="quit" is-config="true" duration-ms="1959" started-at="2018-05-11T00:00:56Z" finished-at="2018-05-11T00:00:58Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:pkg1.TC01@818063]" name="quit" is-config="true" duration-ms="2817" started-at="2018-05-20T09:17:18Z" finished-at="2018-05-20T09:17:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->

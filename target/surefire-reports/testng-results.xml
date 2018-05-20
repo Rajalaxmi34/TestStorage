@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="37968" started-at="2018-05-10T19:23:14Z" finished-at="2018-05-10T19:23:52Z">
+  <suite name="Suite" duration-ms="68388" started-at="2018-05-20T05:30:32Z" finished-at="2018-05-20T05:31:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="37968" started-at="2018-05-10T19:23:14Z" finished-at="2018-05-10T19:23:52Z">
+    <test name="Test" duration-ms="68388" started-at="2018-05-20T05:30:32Z" finished-at="2018-05-20T05:31:40Z">
       <class name="pkg1.TC01">
-        <test-method status="PASS" signature="LunchBrowser()[pri:0, instance:pkg1.TC01@bbe345]" name="LunchBrowser" is-config="true" duration-ms="24831" started-at="2018-05-10T19:23:14Z" finished-at="2018-05-10T19:23:38Z">
+        <test-method status="PASS" signature="LunchBrowser()[pri:0, instance:pkg1.TC01@b8a058]" name="LunchBrowser" is-config="true" duration-ms="51504" started-at="2018-05-20T05:30:32Z" finished-at="2018-05-20T05:31:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LunchBrowser -->
-        <test-method status="PASS" signature="Testcase()[pri:0, instance:pkg1.TC01@bbe345]" name="Testcase" duration-ms="11785" started-at="2018-05-10T19:23:38Z" finished-at="2018-05-10T19:23:50Z">
+        <test-method status="PASS" signature="Testcase()[pri:0, instance:pkg1.TC01@b8a058]" name="Testcase" duration-ms="14939" started-at="2018-05-20T05:31:24Z" finished-at="2018-05-20T05:31:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:pkg1.TC01@bbe345]" name="quit" is-config="true" duration-ms="1275" started-at="2018-05-10T19:23:50Z" finished-at="2018-05-10T19:23:52Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:pkg1.TC01@b8a058]" name="quit" is-config="true" duration-ms="1364" started-at="2018-05-20T05:31:39Z" finished-at="2018-05-20T05:31:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
